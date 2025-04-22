@@ -1,7 +1,7 @@
 # New-energy-vehicle-license-plate-detection-and-recognition-based-on-YOLOv5-and-PaddleOCR
 ## 基于yolov5和paddleocr的新能源小汽车车牌检测定位和文本识别
 
-支持对图片、视频、摄像头进行车牌检测和文本识别并实时标注。<br/>
+### 支持对图片、视频、摄像头进行车牌检测和文本识别并实时标注。<br/>
 
 ## yolov5车牌检测
 使用中国新能源汽车数据集CCPD2020，对yolov5模型进行训练（仅一类，新能源小汽车绿牌），模型指标：<br/>
